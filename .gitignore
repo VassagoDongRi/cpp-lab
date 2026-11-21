@@ -1,0 +1,15 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.log
+
+# 依赖与发布产物（本站是单文件，不需要构建）
+node_modules/
+_site/
+
+# 临时文件
+*.tmp
+~$*
